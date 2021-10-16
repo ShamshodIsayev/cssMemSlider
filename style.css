@@ -124,8 +124,21 @@ body {
   }
 }
 
-@media (max-width: 560px) {
+@media (max-width: 620px) {
   .controls {
     top: 68vh;
+  }
+}
+
+
+@media (max-width: 490px) {
+  .controls {
+    top: 72vh;
+  }
+}
+
+@media (max-width: 400px) {
+  .controls {
+    top: 75vh;
   }
 }
