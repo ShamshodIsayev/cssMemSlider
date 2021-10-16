@@ -135,10 +135,16 @@ body {
   .controls {
     top: 72vh;
   }
+  .text {
+    font-size: 20px;
+  }
 }
 
 @media (max-width: 400px) {
   .controls {
     top: 75vh;
+  }
+  .text {
+    font-size:18px;
   }
 }
